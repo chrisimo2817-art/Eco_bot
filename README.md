@@ -1,2 +1,2 @@
-# Eco_bot
-Économie bot discord
+# Black Hole Bot
+modération, économie, levels ...
